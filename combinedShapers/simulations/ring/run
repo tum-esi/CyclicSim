@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+opp_run -l ../../src/cqf_fp -l $INET_ROOT/src/INET -n .:../../src:$INET_ROOT/src --image-path=$INET_ROOT/images $*
+# for shared lib, use: opp_run -l ../src/cqf_fp -n .:../src $*

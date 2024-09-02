@@ -1,0 +1,6 @@
+#!/bin/sh
+cd `dirname $0`
+#../src/cqf_fp -n .:../src $*
+opp_run -l ../../src/cqf_fp -l $INET_ROOT/src/INET -n .:../../src:$INET_ROOT/src $*
+# for shared lib, use: opp_run -l ../src/cqf_fp -n .:../src $*
+
