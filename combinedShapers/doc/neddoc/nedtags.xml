@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<tagfile>
+  <compound kind="class">
+    <name>ned.DatarateChannel</name>
+    <filename>ned.DatarateChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.DelayChannel</name>
+    <filename>ned.DelayChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IBidirectionalChannel</name>
+    <filename>ned.IBidirectionalChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IdealChannel</name>
+    <filename>ned.IdealChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>ned.IUnidirectionalChannel</name>
+    <filename>ned.IUnidirectionalChannel.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb30.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb30.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb30_AB.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb30_AB.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb40.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb40.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb40_AB.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb40_AB.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb50.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb50.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb50_AB.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb50_AB.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb60.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb60.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb60_AB.mm</name>
+    <filename>combinedshapers.simulations.CBS_TAS.MM.TC3_1_tt20avb60_AB.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb30.mm</name>
+    <filename>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb30.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb40.mm</name>
+    <filename>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb40.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb50.mm</name>
+    <filename>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb50.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb60.mm</name>
+    <filename>combinedshapers.simulations.TAS_CBS_FP.MM.TC3_1_tt20avb60.mm.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.Orion.TC1_1.orion</name>
+    <filename>combinedshapers.simulations.CBS_TAS.Orion.TC1_1.orion.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.CBS_TAS.Orion.TC1_2_doubleAVBLoad.orion</name>
+    <filename>combinedshapers.simulations.CBS_TAS.Orion.TC1_2_doubleAVBLoad.orion.html</filename>
+  </compound>
+  <compound kind="class">
+    <name>combinedshapers.simulations.TAS_CBS_FP.Orion.TC1_2_100timesAVBLoad.orion</name>
+    <filename>combinedshapers.simulations.TAS_CBS_FP.Orion.TC1_2_100timesAVBLoad.orion.html</filename>
+  </compound>
+</tagfile>
