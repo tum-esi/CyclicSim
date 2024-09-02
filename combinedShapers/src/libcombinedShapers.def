@@ -1,0 +1,68 @@
+EXPORTS
+    _ZN15combinedshapers15GroupClassifier10initializeEi @1
+    _ZN15combinedshapers15GroupClassifier14classifyPacketEPN4inet6PacketE @2
+    _ZN15combinedshapers15PeriodicGateCQF10initializeEi @3
+    _ZN15combinedshapers15PeriodicGateCQF18processChangeTimerEv @4
+    _ZN15combinedshapers15PeriodicGateCQF21handleParameterChangeEPKc @5
+    _ZN15combinedshapers16PeriodicGateCSQF10initializeEi @6
+    _ZN15combinedshapers16PeriodicGateCSQF18processChangeTimerEv @7
+    _ZN15combinedshapers16PeriodicGateCSQF21handleParameterChangeEPKc @8
+    _ZN15combinedshapers28PCPTrafficClassClassifierCQF10initializeEi @9
+    _ZN15combinedshapers28PCPTrafficClassClassifierCQF14classifyPacketEPN4inet6PacketE @10
+    _ZN15combinedshapers28PCPTrafficClassClassifierCQF21handleParameterChangeEPKc @11
+    _ZN15combinedshapers29PCPTrafficClassClassifierCSQF10initializeEi @12
+    _ZN15combinedshapers29PCPTrafficClassClassifierCSQF14classifyPacketEPN4inet6PacketE @13
+    _ZN15combinedshapers29PCPTrafficClassClassifierCSQF21handleParameterChangeEPKc @14
+    _ZN15combinedshapers29PCPTrafficClassClassifierMCQF10initializeEi @15
+    _ZN15combinedshapers29PCPTrafficClassClassifierMCQF14classifyPacketEPN4inet6PacketE @16
+    _ZN15combinedshapers29PCPTrafficClassClassifierMCQF21handleParameterChangeEPKc @17
+    _ZTCN15combinedshapers15GroupClassifierE0_N4inet8queueing19PacketProcessorBaseE @18 DATA
+    _ZTCN15combinedshapers15GroupClassifierE0_N4inet8queueing20PacketClassifierBaseE @19 DATA
+    _ZTCN15combinedshapers15GroupClassifierE248_N4inet39TransparentProtocolRegistrationListenerE @20 DATA
+    _ZTCN15combinedshapers15GroupClassifierE400_N4inet8queueing11IPacketSinkE @21 DATA
+    _ZTCN15combinedshapers15GroupClassifierE416_N4inet8queueing13IPacketSourceE @22 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE0_N4inet20ClockUserModuleMixinINS0_8queueing14PacketGateBaseEEE @23 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE0_N4inet8queueing12PeriodicGateE @24 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE0_N4inet8queueing14PacketFlowBaseE @25 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE0_N4inet8queueing14PacketGateBaseE @26 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE0_N4inet8queueing19PacketProcessorBaseE @27 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE312_N4inet39TransparentProtocolRegistrationListenerE @28 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE520_N4inet8queueing11IPacketFlowE @29 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE520_N4inet8queueing11IPacketSinkE @30 DATA
+    _ZTCN15combinedshapers15PeriodicGateCQFE536_N4inet8queueing13IPacketSourceE @31 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE0_N4inet20ClockUserModuleMixinINS0_8queueing14PacketGateBaseEEE @32 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE0_N4inet8queueing12PeriodicGateE @33 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE0_N4inet8queueing14PacketFlowBaseE @34 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE0_N4inet8queueing14PacketGateBaseE @35 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE0_N4inet8queueing19PacketProcessorBaseE @36 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE312_N4inet39TransparentProtocolRegistrationListenerE @37 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE520_N4inet8queueing11IPacketFlowE @38 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE520_N4inet8queueing11IPacketSinkE @39 DATA
+    _ZTCN15combinedshapers16PeriodicGateCSQFE536_N4inet8queueing13IPacketSourceE @40 DATA
+    _ZTCN15combinedshapers28PCPTrafficClassClassifierCQFE0_N4inet8queueing19PacketProcessorBaseE @41 DATA
+    _ZTCN15combinedshapers28PCPTrafficClassClassifierCQFE0_N4inet8queueing20PacketClassifierBaseE @42 DATA
+    _ZTCN15combinedshapers28PCPTrafficClassClassifierCQFE248_N4inet39TransparentProtocolRegistrationListenerE @43 DATA
+    _ZTCN15combinedshapers28PCPTrafficClassClassifierCQFE408_N4inet8queueing11IPacketSinkE @44 DATA
+    _ZTCN15combinedshapers28PCPTrafficClassClassifierCQFE424_N4inet8queueing13IPacketSourceE @45 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierCSQFE0_N4inet8queueing19PacketProcessorBaseE @46 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierCSQFE0_N4inet8queueing20PacketClassifierBaseE @47 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierCSQFE248_N4inet39TransparentProtocolRegistrationListenerE @48 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierCSQFE408_N4inet8queueing11IPacketSinkE @49 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierCSQFE424_N4inet8queueing13IPacketSourceE @50 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierMCQFE0_N4inet8queueing19PacketProcessorBaseE @51 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierMCQFE0_N4inet8queueing20PacketClassifierBaseE @52 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierMCQFE248_N4inet39TransparentProtocolRegistrationListenerE @53 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierMCQFE432_N4inet8queueing11IPacketSinkE @54 DATA
+    _ZTCN15combinedshapers29PCPTrafficClassClassifierMCQFE448_N4inet8queueing13IPacketSourceE @55 DATA
+    _ZTTN15combinedshapers15GroupClassifierE @56 DATA
+    _ZTTN15combinedshapers15PeriodicGateCQFE @57 DATA
+    _ZTTN15combinedshapers16PeriodicGateCSQFE @58 DATA
+    _ZTTN15combinedshapers28PCPTrafficClassClassifierCQFE @59 DATA
+    _ZTTN15combinedshapers29PCPTrafficClassClassifierCSQFE @60 DATA
+    _ZTTN15combinedshapers29PCPTrafficClassClassifierMCQFE @61 DATA
+    _ZTVN15combinedshapers15GroupClassifierE @62 DATA
+    _ZTVN15combinedshapers15PeriodicGateCQFE @63 DATA
+    _ZTVN15combinedshapers16PeriodicGateCSQFE @64 DATA
+    _ZTVN15combinedshapers28PCPTrafficClassClassifierCQFE @65 DATA
+    _ZTVN15combinedshapers29PCPTrafficClassClassifierCSQFE @66 DATA
+    _ZTVN15combinedshapers29PCPTrafficClassClassifierMCQFE @67 DATA
