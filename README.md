@@ -15,3 +15,8 @@ Our framework supports the simulation and evaluation of CQF, CSQF (3-queue CQF i
 - Cyclic Queuing and Forwarding (CQF)
 - Cycle Specific Queuing and Forwarding (CSQF)
 - Multi Cyclic Queuing and Forwarding (MCQF)
+
+## Installation
+- Clone the git repository
+- Import the folders - combinedShapers and inet
+- In the OMNeT++, import the folders as OMNeT++ project.
