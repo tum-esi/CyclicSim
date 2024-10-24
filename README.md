@@ -22,7 +22,7 @@ Our framework supports the simulation and evaluation of CQF, CSQF (3-queue CQF i
 - In the OMNeT++, import the folders as OMNeT++ project.
 
 ## Reference
-If you would like to reference this project please use the following publication:
+If you are using the framework and/or the code please use the following publication reference:
 
 ```
 @INPROCEEDINGS{ccnc_debnath,
