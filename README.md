@@ -25,13 +25,14 @@ Our framework supports the simulation and evaluation of CQF, CSQF (3-queue CQF i
 If you are using the framework and/or the code please use the following publication reference:
 
 ```
-@INPROCEEDINGS{ccnc_debnath,
-   title={CyclicSim: Comprehensive Evaluation of Cyclic Shapers in Time-Sensitive Networking}, 
-      author={Rubi Debnath and Luxi Zhao and Mohammadreza Barzegaran and Sebastian Steinhorst},
-      year={2024},
-      eprint={2409.19792},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI},
-      url={https://arxiv.org/abs/2409.19792}, 
-}
+@INPROCEEDINGS{10975975,
+  author={Debnath, Rubi and Zhao, Luxi and Barzegaran, Mohammadreza and Steinhorst, Sebastian},
+  booktitle={2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)}, 
+  title={CyclicSim: Comprehensive Evaluation of Cyclic Shapers in Time-Sensitive Networking}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={01-09},
+  doi={10.1109/CCNC54725.2025.10975975}}
+
 ```
